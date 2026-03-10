@@ -18,7 +18,7 @@ static double CalculateAverage(int[] values)
     {
         average += values[i];
     }
-    
+
     return average / values.Length;
-    
+
 }
