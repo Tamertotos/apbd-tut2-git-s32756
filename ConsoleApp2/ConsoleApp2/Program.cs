@@ -6,6 +6,10 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 
+
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+
 int[] arr = { 1, 2, 3, 4, 5 };
 Console.WriteLine(CalculateAverage(arr));
 
